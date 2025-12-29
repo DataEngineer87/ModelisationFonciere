@@ -78,3 +78,5 @@ Le modèle Random Forest a donc été retenu pour la mise en production dans l�
 Lancer l’application Streamlit :
 
 streamlit run APP_DFV.py
+## Auteur
+**Alseny — Data Scientist confirmé orienté MLOps & GenAI**
